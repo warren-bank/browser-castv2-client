@@ -1,0 +1,13 @@
+https://github.com/protobufjs/protobuf.js#browsers
+  window.protobuf
+
+https://github.com/protobufjs/protobuf.js/releases/tag/6.8.8
+https://github.com/protobufjs/protobuf.js/tree/6.8.8
+https://github.com/protobufjs/protobuf.js/tree/6.8.8/dist
+https://github.com/protobufjs/protobuf.js/raw/6.8.8/dist/protobuf.min.js
+https://github.com/protobufjs/protobuf.js/raw/6.8.8/dist/light/protobuf.min.js
+https://github.com/protobufjs/protobuf.js/raw/6.8.8/dist/minimal/protobuf.min.js
+
+https://cdn.jsdelivr.net/npm/protobufjs@6.8.8/dist/protobuf.min.js
+https://cdn.jsdelivr.net/npm/protobufjs@6.8.8/dist/light/protobuf.min.js
+https://cdn.jsdelivr.net/npm/protobufjs@6.8.8/dist/minimal/protobuf.min.js

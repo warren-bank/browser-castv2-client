@@ -1,0 +1,34 @@
+<html>
+<head>
+  <script src="./js/protobuf.min.js"></script>
+  <script src="./js/castv2.js"></script>
+  <script src="../../dist/es2020/castv2-client.js"></script>
+  <script src="./js/example.js"></script>
+  <link rel="stylesheet" href="./css/style.css" />
+</head>
+<body>
+  <div id="form-container">
+    <h2>Chromecast</h2>
+    <div>
+      <label for="cc-ip">IP Address:</label>
+      <input id="cc-ip" type="text" value="192.168.0.156" />
+    </div>
+    <div>
+      <label for="cc-port">Port:</label>
+      <input id="cc-port" type="text" value="8009" />
+    </div>
+    <h2>TCP Proxy Server</h2>
+    <div>
+      <label for="tcp-host">Host:</label>
+      <input id="tcp-host" type="text" value="localhost" />
+    </div>
+    <div>
+      <label for="tcp-port">Port:</label>
+      <input id="tcp-port" type="text" value="3000" />
+    </div>
+    <div>
+      <button id="launch-button">Launch Demo</button>
+    </div>
+  </div>
+</body>
+</html>
